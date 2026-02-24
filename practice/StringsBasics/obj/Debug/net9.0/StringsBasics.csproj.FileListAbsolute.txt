@@ -1,0 +1,14 @@
+C:\Users\rahul\Documents\C#\practice\StringsBasics\bin\Debug\net9.0\StringsBasics.exe
+C:\Users\rahul\Documents\C#\practice\StringsBasics\bin\Debug\net9.0\StringsBasics.deps.json
+C:\Users\rahul\Documents\C#\practice\StringsBasics\bin\Debug\net9.0\StringsBasics.runtimeconfig.json
+C:\Users\rahul\Documents\C#\practice\StringsBasics\bin\Debug\net9.0\StringsBasics.dll
+C:\Users\rahul\Documents\C#\practice\StringsBasics\bin\Debug\net9.0\StringsBasics.pdb
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\StringsBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\StringsBasics.AssemblyInfoInputs.cache
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\StringsBasics.AssemblyInfo.cs
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\StringsBasics.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\StringsBasics.dll
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\refint\StringsBasics.dll
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\StringsBasics.pdb
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\StringsBasics.genruntimeconfig.cache
+C:\Users\rahul\Documents\C#\practice\StringsBasics\obj\Debug\net9.0\ref\StringsBasics.dll
