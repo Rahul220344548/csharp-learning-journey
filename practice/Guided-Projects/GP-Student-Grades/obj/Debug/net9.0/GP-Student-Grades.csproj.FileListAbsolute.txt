@@ -1,0 +1,15 @@
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\bin\Debug\net9.0\GP-Student-Grades.exe
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\bin\Debug\net9.0\GP-Student-Grades.deps.json
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\bin\Debug\net9.0\GP-Student-Grades.runtimeconfig.json
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\bin\Debug\net9.0\GP-Student-Grades.dll
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\bin\Debug\net9.0\GP-Student-Grades.pdb
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.AssemblyInfoInputs.cache
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.AssemblyInfo.cs
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.sourcelink.json
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.dll
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\refint\GP-Student-Grades.dll
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.pdb
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\GP-Student-Grades.genruntimeconfig.cache
+C:\Users\rahul\Documents\C#\practice\Guided-Projects\GP-Student-Grades\obj\Debug\net9.0\ref\GP-Student-Grades.dll

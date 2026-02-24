@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GP-Student-Grades/1.0.0": {
+        "runtime": {
+          "GP-Student-Grades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GP-Student-Grades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
