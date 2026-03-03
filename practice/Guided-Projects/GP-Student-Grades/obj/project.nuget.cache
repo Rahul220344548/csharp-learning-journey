@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HVFihiKFF+M=",
+  "dgSpecHash": "pCSvf2Ucf6Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\rahul\\Documents\\C#\\practice\\Guided-Projects\\GP-Student-Grades\\GP-Student-Grades.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
