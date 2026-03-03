@@ -3,6 +3,13 @@
 // dotnet watch run  - LIVE RUN
 // CTRL + C in terminal - EXIT
 
+// Inline code suggestions
+// Ctrl + ,
+// quick suggestions in search bar
+// and inline suggest enabled , 
+
+
+
 int fahrenheit = 94;
 
 decimal temperature = (fahrenheit - 32) * 5.0m / 9;
